@@ -14,13 +14,13 @@
 - 💡 Solved 50+ problems on LeetCode  
 
 ## 📂 Featured Projects
-- [Nghiên cứu khoa học – Nhận diện cảm xúc với MobileNetV3](https://github.com/lamkbvn/DO_AN_PPNCKH)  
-  Ứng dụng **CNN nhẹ MobileNetV3** cho bài toán nhận diện cảm xúc khuôn mặt.  
-  🔹 Nghiên cứu khoa học cấp trường, tối ưu mô hình để chạy trên thiết bị hạn chế tài nguyên.  
+- [Scientific Research – Emotion Recognition with MobileNetV3](https://github.com/lamkbvn/DO_AN_PPNCKH)  
+  Applied **lightweight CNN MobileNetV3** for facial emotion recognition.  
+  🔹 University-level research project, optimized for deployment on resource-constrained devices.  
 
 - [Social Media – Instagram Clone](https://github.com/LocNguyenSGU/SocialMedia)  
-  Ứng dụng mạng xã hội **clone Instagram** với tính năng đăng bài, like, comment, follow.  
-  🔹 Xây dựng với ReactJS + Spring Boot + MySQL, mô phỏng trải nghiệm mạng xã hội thực tế.
+  A social media application **inspired by Instagram** with features such as posting, liking, commenting, and following.  
+  🔹 Built with ReactJS + Spring Boot + MySQL, simulating a real-world social media experience.
 
 ## 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/kietdev27) | [Email](mailto:vankiet27012004@email.com)
