@@ -1,27 +1,28 @@
-# 👋 Hi, I'm [Tuan Kiet]
+# 👋 Hi, I'm Van Tuan Kiet
 
-💻 I'm a **Java Developer** passionate about building scalable web applications and microservices.  
-[Visit my website](https://kietdev27.netlify.app/)
+💻 **Backend Engineer** · Java Spring Boot · Building scalable APIs and distributed systems.  
+🌐 [Portfolio](https://kietsocola.github.io/profile/) · 📍 Ho Chi Minh City, Vietnam
 
-## 🚀 Tech Stack
-- Java, Spring Boot, Python, PHP
-- ReactJS, Next.js  
-- MySQL, PostgreSQL  
-- Docker, Git
+## 🛠 Tech Stack
+- **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, FastAPI
+- **Databases:** PostgreSQL, MySQL, Redis, AWS S3
+- **DevOps:** Docker, GitHub Actions, Cloudflare Workers, Kong API Gateway
+- **Frontend:** Next.js, React
 
-## 🌟 Achievements
-- 🏆 2nd Prize Hackathon  
-- 🎓 5x University Scholarship  
-- 💡 Solved 50+ problems on LeetCode  
+## 🌟 Highlights
+- 🎤 Conference Presenter — FJCAI National (Adaptive STEM Learning via RL)
+- 🥈 2nd Place — AI Hackathon (Digital Transformation in Tourism)
+- 🎓 6× Academic Excellence Scholarship · GPA 3.65/4.0
 
 ## 📂 Featured Projects
-- [Scientific Research – Emotion Recognition with MobileNetV3](https://github.com/lamkbvn/DO_AN_PPNCKH)  
-  Applied **lightweight CNN MobileNetV3** for facial emotion recognition.  
-  🔹 University-level research project, optimized for deployment on resource-constrained devices.  
 
-- [Social Media – Instagram Clone](https://github.com/LocNguyenSGU/SocialMedia)  
-  A social media application **inspired by Instagram** with features such as posting, liking, commenting, and following.  
-  🔹 Built with ReactJS + Spring Boot + MySQL, simulating a real-world social media experience.
+- **[High-Throughput Email Campaign System](https://github.com/kietsocola/email-campaign)**  
+  Bulk-email pipeline with RabbitMQ, Dead Letter Queues & Exponential Backoff for resilience.  
+  `Spring Boot` `RabbitMQ` `PostgreSQL` `JWT`
 
-## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/kietdev27) | [Email](mailto:vankiet27012004@email.com)
+- **[AI-Driven STEM Learning Ecosystem](https://github.com/kltn-moolde/moodle-adaptive-learning-plugin)**  
+  Microservices platform with Q-Learning + SHAP — **+22.5% score boost**, **−51% weak skills**.  
+  `Spring Boot` `FastAPI` `Kong` `Docker` `LTI 1.3`
+
+## 📬 Contact
+[LinkedIn](https://linkedin.com/in/kietdev27) · [Email](mailto:kietdev27@gmail.com)
